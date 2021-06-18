@@ -2,7 +2,7 @@
 
 <h3> A simple keyboard designed to change color everytime a corresponding key is clicked. <br> Experience a vitual LED Keyboard. </h3>
 
-* Platform used- VS Studio Code
+* Platform used- Visual Studio Code
 * Languages used- HTML, CSS
 ----------------------------------------------------------
 ### Keys used:
